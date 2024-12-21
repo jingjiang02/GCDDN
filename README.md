@@ -74,5 +74,5 @@ CUDA_VISIBLE_DEVICES=0 python adaptations/evaluate_outdoor.py --restore-from /ho
 If you find GCDDN useful in your research, please consider citing:
 
 ```bibtex
-TODO
+TODO.
 ```
